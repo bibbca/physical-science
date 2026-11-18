@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Physical Science"
+  subtitle: "An Open Textbook for NAD 9th Graders"
+  author: "Caleb Bibb"
+  repo-url: https://github.com/bibbca/physical-science
+  repo-actions: [edit, issue]
+  page-footer:
+    center: |
+      This book is licensed under
+      [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+  chapters:
+    - index.qmd
+    - part: "Physics"
+      chapters:
+        - physics/intro-to-science.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    include-in-header:
+      text: \usepackage[version=4]{mhchem}
