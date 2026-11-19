@@ -1,3 +1,17 @@
 # Introduction to Physical Science
 
 Physical science is the study of matter, energy, the changes they undergo, and how we interact with it all.
+
+## Areas of Physical Science
+
+There are five main areas of Physical Science:
+
+1. **Chemistry** is the study of the properties of matter and how matter changes. This is typically done on the micro-scale.
+
+2. **Physics** is the study of matter and energy and how they interact.
+
+3. **Engineering** is the branch of science and technology concerned with the design, building, and use of engines, machines, and structures.
+
+4. **Earth science** are the branches of science concerned with what the Earth is made of and the natural cycles that the Earth undergoes.
+
+5. **Astronomy** is the study of space and objects outside of Earth.
