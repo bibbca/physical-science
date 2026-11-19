@@ -27,3 +27,9 @@ An **inference** is a conclusion based on reasoning from what you have already o
 Everyday, people make inferences that may or may not be true. For example, if your teacher gave lots of surprise quizzes and came into class one day holding a stack of paper, you may infer that those pages had a quiz printed on them. However, it could just as easily be something else printed on those pages or nothing at all.
 
 ### Prediction
+
+
+## Key Terms
+
+**Observation**
+: obtaining information through your senses.

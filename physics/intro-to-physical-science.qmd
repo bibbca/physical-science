@@ -15,3 +15,17 @@ There are five main areas of Physical Science:
 4. **Earth science** are the branches of science concerned with what the Earth is made of and the natural cycles that the Earth undergoes.
 
 5. **Astronomy** is the study of space and objects outside of Earth.
+
+
+## Key Terms
+**Chemistry**
+: the study of the properties of matter and how matter changes.
+
+**Physics**
+: the study of matter and energy and how they interact.
+
+**Engineering**
+: the branch of science and technology concerned with the design, building, and use of machines and structures.
+
+**Astronomy**
+: the study of space and objects outside of Earth.

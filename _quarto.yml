@@ -1,5 +1,6 @@
 project:
   type: book
+  pre-render: scripts/build_glossary.py
 
 book:
   title: "Physical Science"
@@ -17,6 +18,8 @@ book:
       chapters:
         - physics/intro-to-science.qmd
         - physics/intro-to-physical-science.qmd
+  appendices:
+    - glossary.qmd
 
 format:
   html:
