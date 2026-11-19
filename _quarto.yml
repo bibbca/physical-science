@@ -16,6 +16,7 @@ book:
     - part: "Physics"
       chapters:
         - physics/intro-to-science.qmd
+        - physics/intro-to-physical-science.qmd
 
 format:
   html:
