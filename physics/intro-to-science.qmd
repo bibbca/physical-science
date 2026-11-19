@@ -1,0 +1,29 @@
+# Introduction to Science
+
+## What is science?
+
+**Science** is the study of the physical and natural world by gathering information.
+
+To think and work like a scientist, you need to use the same skills that they do. Part of this class is teaching you how to think and work like a scientist.
+
+Scientists use the skills of observing, inferring, and predicting to learn about the natural world. We're going to talk about each of those in more detail.
+
+### Observation
+
+An **observation** is obtaining information through your senses. There are two different types of observations:
+
+1. **Quantitative**: observations that have a number attached.
+
+2. **Qualitative** or **Categorical**: which do not have a number attached. They often describe objects or events using adjectives such as *red* or *cold*.
+
+The confusing part is that if you are counting qualitative data, it is still qualitative data. For example, "There are 5 blonde heads in this class." is a qualitative observation.
+
+[Insert MyOpenMath: Type of Observation Question Here]
+
+### Inferrence
+
+An **inference** is a conclusion based on reasoning from what you have already observed.
+
+Everyday, people make inferences that may or may not be true. For example, if your teacher gave lots of surprise quizzes and came into class one day holding a stack of paper, you may infer that those pages had a quiz printed on them. However, it could just as easily be something else printed on those pages or nothing at all.
+
+### Prediction
